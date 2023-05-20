@@ -1,4 +1,4 @@
-import fromEntries from "../fromEntries";
+import fromEntries from "../fromEntries.js";
 
 describe("fromEntries function", () => {
   it("should convert entries array to object", () => {

@@ -1,0 +1,11 @@
+{
+    "name": "module11_homework",
+    "main": "index.js",
+    "repository": "https://github.com/Vintorezy/module11_homework.git",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^27.2.1"
+    }
+  }
